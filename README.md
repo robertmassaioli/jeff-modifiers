@@ -103,7 +103,7 @@ Numbers are formed using binary:
 
 To press a NumPad key, add in `P-`, to use a function key, add in `TP-`.
 
-Example: To press Command-Shift-F2, stroke: `TPWEUFRLTZ`
+Example: To press Control-Shift-F2, stroke: `TPWEUFRLTZ`
 ```
 🅂🆃🅿🄷 🄾 🅵🄿🅻🆃🄳
 🅂🄺🆆🅁 🄾 🆁🄱🄶🅂🆉
